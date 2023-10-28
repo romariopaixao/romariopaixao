@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/email-teste?logo=gmail&styler=plastic&logoColor=EA4335&color=red">    
   </a>
   
-  <a href="#">
+  <a href="https://www.linkedin.com/in/romariopaixao" target="_blank">
     <img src="https://img.shields.io/badge/meu_linkedin-teste?logo=linkedin&styler=plastic&color=0A66C2">
   </a>
 </div>
