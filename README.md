@@ -47,7 +47,7 @@ Estou empenhado nos estudos em programação, buscando uma transição de carrei
 <div>
   <a href="https://github.com/romariopaixao">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romariopaixao&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=romariopaixao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=romariopaixao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 </div>
 
 
