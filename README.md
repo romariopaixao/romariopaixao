@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/ILsZ8Ji.gif">
 </div>
 <h3>Sobre mim</h3>
-Estou empenhado nos estudos em programação, buscando uma transição de carreira e determinado a me tornar um desenvolvedor full-stack.
+<p>Estou empenhado nos estudos em programação, buscando uma transição de carreira e determinado a me tornar um desenvolvedor full-stack.</p>
 
 <h3>Contatos</h3>
 <div>
